@@ -1,5 +1,7 @@
 # House Price Prediction Using Machine Learning
 
+![](https://github.com/Lucky-akash321/House-Price-Prediction/blob/main/house.jpg)
+
 ## Introduction
 House price prediction is a **regression problem** where machine learning models analyze various factors such as location, square footage, number of rooms, and other attributes to estimate **property prices**. This guide walks through the **end-to-end process** of building a machine learning model for predicting house prices.
 
